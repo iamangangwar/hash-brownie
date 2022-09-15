@@ -1,0 +1,2 @@
+dotenv: .env
+key: ${PRIVATE_KEY}
