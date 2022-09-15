@@ -1,5 +1,5 @@
 # hash-brownie
-An ERC20 token made for fun, deployed on ropsten testnet(learning how to deploy smart contracts with python)
+An ERC20 token made for fun, deployed on ropsten testnet(learning how to deploy smart contracts with python, using Brownie ;) )<br>
 
 pybc == python virtual environment <br>
 code directory contains all the code (it's not much :P)
